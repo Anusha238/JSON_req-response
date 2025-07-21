@@ -1,6 +1,6 @@
 [
 
-//reporting JSON file
+//reporting/Requesting JSON file
 
     
     {
@@ -19,13 +19,7 @@
       "createdAt": "2025-07-21T13:39:00Z"
     }
 
-]
-
-
-// Response JSON file
-
-[
-    {
+     {
       "data": [
         {
           "id": "abcdef1234567890",
@@ -41,6 +35,8 @@
         "limit": 10,
         "total": 1
       }
-    }
+    
 
 ]
+
+
